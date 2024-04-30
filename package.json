@@ -54,6 +54,9 @@
       "optional": true
     }
   },
+  "dependencies": {
+    "https-proxy-agent": "^5.0.1"
+  },
   "devDependencies": {
     "benchmark": "^2.1.4",
     "bufferutil": "^4.0.1",
